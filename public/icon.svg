@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="invictus-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="50%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcd34d" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0f172a" />
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="url(#invictus-grad)" stroke-width="6" opacity="0.4" />
+  <path d="M256 80 L390 140 V265 C390 350 330 415 256 448 C182 415 122 350 122 265 V140 Z" fill="url(#invictus-grad)" />
+  <!-- Inner Shield Highlight -->
+  <path d="M256 104 L370 156 V260 C370 334 318 392 256 422 C194 392 142 334 142 260 V156 Z" fill="#064e3b" opacity="0.4" />
+  <!-- Invictus 'I' and Lightning / Laurel -->
+  <path d="M228 170 H284 V340 H228 Z" fill="#ffffff" />
+  <path d="M210 160 H302 V186 H210 Z" fill="#ffffff" />
+  <path d="M210 324 H302 V350 H210 Z" fill="#ffffff" />
+  <circle cx="256" cy="255" r="18" fill="url(#gold-grad)" />
+</svg>

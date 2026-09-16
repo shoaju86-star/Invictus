@@ -1,0 +1,6 @@
+{
+  "name": "Invictus",
+  "description": "Cross-platform mobile resale marketplace with AI-assisted visual appraisal, M-PESA Daraja & global escrow payments, in-app buyer/seller chat, and regional shipping & local pickup.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

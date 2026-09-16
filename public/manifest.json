@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Invictus Resale Marketplace",
+  "short_name": "Invictus",
+  "description": "Cross-platform resale marketplace with AI appraisal, M-PESA escrow, and in-app chat.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "categories": ["shopping", "business", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
